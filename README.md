@@ -33,7 +33,7 @@ Alternatively, you can include Lenis via a CDN:
 ## 🚀 Installation & Setup
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/your-username/repository-name.git
+   git clone https://github.com/your-username/trailImageEffect.git
    cd trailImageEffect
    ```
 2. **Install dependencies** (if using npm)
